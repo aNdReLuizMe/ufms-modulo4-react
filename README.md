@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-[Base:](https://www.hyperui.dev/)(https://daisyui.com/components/select/)
+[Base:](https://www.hyperui.dev/)(https://daisyui.com/components/select/)(https://magic.reactjs.net/htmltojsx.htm)
 
 First, run the development server:
 
