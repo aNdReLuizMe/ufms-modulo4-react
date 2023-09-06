@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+[Base:](https://daisyui.com/)(https://www.youtube.com/watch?v=gXgb36T9fRk&ab_channel=CodeAProgram)
+
 First, run the development server:
 
 ```bash
