@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-[Base:](https://daisyui.com/)(https://www.youtube.com/watch?v=gXgb36T9fRk&ab_channel=CodeAProgram)
+[Base:](https://www.youtube.com/watch?v=RJ8qfharNOE&list=PLBspOVU6HVuieaURY5Qq7uUidfc-vHrIY&ab_channel=TimetoCode) (https://daisyui.com/) (https://www.youtube.com/watch?v=gXgb36T9fRk&ab_channel=CodeAProgram)
 
 First, run the development server:
 
