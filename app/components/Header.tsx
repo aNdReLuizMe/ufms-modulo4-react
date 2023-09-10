@@ -5,7 +5,7 @@ const Header = () => {
    return (
       <header>
          <div className="navbar items-center p-5 bg-blue-500  text-white fixed top-0 w-full justify-between">
-            <Image className="btn btn-ghost bg-black" src='/assets/ufms_Logo.pngufms_Logo.png' alt='UFMS Logo' width={100} height={210} />
+            <a className="btn btn-ghost" href='https://agead.ufms.br/tecnologia-da-informacao/' target='_blank'><Image className="btn btn-ghost"  src='/ufms_Logo-removebg.png' width={70} height={120} alt='UFMS Logo'/></a>
 
             <label className="swap swap-rotate">
                {/* this hidden checkbox controls the state */}

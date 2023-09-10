@@ -3,7 +3,7 @@
 import Layout from './layout'
 
 
-export default function Home() {
+export default function Formulario() {
   return (
     <>
       {/* <div style={{

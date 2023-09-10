@@ -14,5 +14,15 @@ module.exports = {
   plugins: [
     require("daisyui"),
   ],
+  keyframes: {
+    wave: {
+      '0%': { backgroundPosition: '0% 50%' },
+      '50%': { backgroundPosition: '100% 50%' },
+      '100%': { backgroundPosition: '0% 50%' },
+    },
+    animation: {
+      wave: 'wave 6s ease infinite'
+    }
+  }
 }
 
