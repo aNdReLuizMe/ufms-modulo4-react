@@ -11,9 +11,7 @@ module.exports = {
   daisyui: {
     themes: ["light, dark"],
   },
-  plugins: [
-    require("daisyui"),
-  ],
+  plugins: [require('daisyui')],
   keyframes: {
     wave: {
       '0%': { backgroundPosition: '0% 50%' },
