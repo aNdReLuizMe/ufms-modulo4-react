@@ -1,4 +1,6 @@
 import React from 'react'
+import InputText from './InputText'
+import Select from './Select'
 
 const Formulario = () => {
    return (
@@ -319,7 +321,8 @@ const Formulario = () => {
             <div>
                <input type="submit" id="botao" defaultValue="Confirmar" />
                <input type="reset" id="botao" defaultValue="Retornar" />
-               <input type="text" placeholder="Type here" className="input input-bordered input-info w-full max-w-xs" />
+               <InputText/>
+               <Select />
             </div>
          </div>
       </form>
